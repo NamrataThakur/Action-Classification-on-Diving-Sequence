@@ -1,0 +1,11 @@
+name: itssFL
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - tensorflow==1.15
+  - numpy==1.18.5
+  - scipy==1.4.1
+  - pillow==7.2.0
+  - ipykernel
+prefix: C:\Users\Grace\anaconda3\envs\itssFL

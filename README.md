@@ -21,7 +21,7 @@ There are 2 environments to setup, 1 for the Repnet Flask Server, and 1 for the 
 ### Main Backend Environment
 `conda create -n backend python=3.9.13`<br>
 `conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia`<br>
-`pip install -r requirments_backend.txt`<br>
+`pip install -r requirements_backend.txt`<br>
 `ipython kernel install --user --name=backend` <br>
 
 

@@ -3,6 +3,10 @@
 The repository contains code from:
 - I3D Code Extraction: https://github.com/v-iashin/video_features
 
+# APPLICATION DEMO VIDEO:
+
+[![Final Application Demo Video](https://img.youtube.com/vi/UkcJsiNxuZ4/0.jpg)](https://youtu.be/UkcJsiNxuZ4 "Click to Play")
+
 ## Folder Structure
 configs: I3D config *<br>
 images: Output directory for intermediate processing<br>

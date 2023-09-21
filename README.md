@@ -7,6 +7,33 @@ The repository contains code from:
 
 [![Final Application Demo Video](https://img.youtube.com/vi/UkcJsiNxuZ4/0.jpg)](https://youtu.be/UkcJsiNxuZ4 "Click to Play")
 
+## Application Architecture:
+
+<b> Overall Architecture: </b> 
+
+![image](https://github.com/NamrataThakur/Action-Classification-on-Diving-Sequence/assets/56768652/4a65ba13-4302-43a0-b682-356cfcfbc8dc)
+
+
+<b> Temporal Segmentation: </b>
+
+![image](https://github.com/NamrataThakur/Action-Classification-on-Diving-Sequence/assets/56768652/8e7ad191-21d0-4ab0-a976-c9efaaf2af43)
+
+
+<b> Automated Scoring Network Structure </b>
+
+![image](https://github.com/NamrataThakur/Action-Classification-on-Diving-Sequence/assets/56768652/4ceaa8a2-82ca-4e0a-856b-a63fa78ce0d5)
+
+
+<b> Splash Analysis: </b>
+
+![image](https://github.com/NamrataThakur/Action-Classification-on-Diving-Sequence/assets/56768652/db5d7594-392b-4e50-855d-b3071a0095cb)
+
+
+<b> Angle of Entry Analysis: </b>
+
+![image](https://github.com/NamrataThakur/Action-Classification-on-Diving-Sequence/assets/56768652/fdea991c-a2fe-463c-9d5d-d2609100bc38)
+
+
 ## Folder Structure
 configs: I3D config *<br>
 images: Output directory for intermediate processing<br>
